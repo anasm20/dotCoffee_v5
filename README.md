@@ -25,13 +25,13 @@ Danach müssen Sie die "Application.java", welche im Backend Ordner zufinden ist
 ### Homepage
 Wo Sie einiges über unsere Backstory, Motivation und selbst verständlich - uns, lernen können. Sie können ebenfalls von der Homepage ganz entspannt auf alle verfügbaren Seiten als Visitor zugreifen, wie den Shop sowie die Hilfe, Kontakt und Impressums Seite:
 ![Index](https://github.com/anasm20/dotCoffee_v5/assets/112882511/a6d765b1-787f-4f60-9646-dc55a0ae32dd)
-
+![ShoppingCart](https://github.com/anasm20/dotCoffee_v5/assets/112882511/264591c0-e498-4f36-aa3f-e5ad7266b3d1)
+![shop](https://github.com/anasm20/dotCoffee_v5/assets/112882511/cf440925-074f-4550-b13a-b77c099907ac)
 
 ### Registration
 Hier können Sie sich registieren um auf mehr User Pages zugriff zu erlangen wie unteranderen einen persönlichen Warenkorb und Ihre User Page!
 ![Registerung](https://github.com/anasm20/dotCoffee_v5/assets/112882511/93a92413-d52d-487f-842b-761e9c553cb3)
-![ShoppingCart](https://github.com/anasm20/dotCoffee_v5/assets/112882511/264591c0-e498-4f36-aa3f-e5ad7266b3d1)
-![shop](https://github.com/anasm20/dotCoffee_v5/assets/112882511/cf440925-074f-4550-b13a-b77c099907ac)
+
 
 
 ### Admin-privilges
@@ -63,7 +63,7 @@ Als Beispiel sieht man hier einen Basic Integration Test für die Categories!
 
 
 ### Unit Test
-Als Beispioel sieht man hier einen Basic Unit Test fürs UserService!
+Als Beispiel sieht man hier einen Basic Unit Test fürs UserService!
 ![UserServiceTest](https://github.com/anasm20/dotCoffee_v5_01/assets/122538784/ad214128-9e86-40cc-b27e-bb3cc70458fd)
 
 
