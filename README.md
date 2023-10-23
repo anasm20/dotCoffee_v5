@@ -47,15 +47,24 @@ Für dieses Projekt haben wir verschiedene Software - Lifecycle Methoden angewen
 Wir benutzen ein Project Board (Kanban) um die Userstories, Statuse, Progress . . . visuel darzustellen und updaten dieses täglich.
 ![02_User_Stories](https://github.com/anasm20/Software_Lifecycle_Semesterprojekt/assets/122538784/69cb6ae3-6a2d-4a98-8357-d43c0eae73b5)
 
+
 ### Userstories - Feature Branches
 Jede Userstory, wird mit einen eigenen Feature Entwickelt und dem entsprechen auch mit einen eigenen Branch erstellt. Nach den Tests wird dieses in die richtige Main/Dev Branch gemergerd.
 ![03_New_dev_Branch](https://github.com/anasm20/Software_Lifecycle_Semesterprojekt/assets/122538784/2fc5d6de-ebd1-473a-b989-7d4b6a43b974)
 
 
-### Unit and Integration Testing
-Hier sind ein paar Ausschnitte über das Frontnd der Website:
+### Testing
+Fürs Testing haben wir sowohl Unit als auch Integration Tests erstellt und damit auch getestet, insgesamt besitzt dieses Projekt derzeitig 43 Tests!
 
-### Hier wird ein User-Controller Unit Test gezeigt
-![UnitTest_Users](https://github.com/anasm20/Software_Lifecycle_Semesterprojekt/assets/122538784/a5925513-c489-45e1-8131-5d39a839056b)
+
+### Integration Test
+Als Beispiel sieht man hier einen Basic Integration Test für die Categories!
+![grafik](https://github.com/anasm20/dotCoffee_v5_01/assets/122538784/d1b1dc15-fdd3-4870-9519-834fddd39083)
+
+
+### Unit Test
+Als Beispioel sieht man hier einen Basic Unit Test fürs UserService!
+![UserServiceTest](https://github.com/anasm20/dotCoffee_v5_01/assets/122538784/ad214128-9e86-40cc-b27e-bb3cc70458fd)
+
 
 
