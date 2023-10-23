@@ -2,11 +2,9 @@ name: Java CI with Maven for main (Build Artifact)
 
 on:
   push:
-    branches:
-      - main
+    branches: [ "main" ]
   pull_request:
-    branches:
-      - main
+    branches: [ "main" ]
 
 jobs:
   build:
@@ -27,7 +25,6 @@ jobs:
         run: mvn -B package --file ./Backend/rest.demo/pom.xml
 
       - run: mkdir download && cp ./Backend/rest.demo/target/*.jar download
-
       - name: Upload a Build Artifact
         uses: actions/upload-artifact@v2
         with:
