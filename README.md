@@ -1,12 +1,7 @@
 ### Der "dotCoffee" Webshop, by Anas & Michael!
 Willkommen im faszinierenden Universum des Kaffee-Webshops, entwickelt von den leidenschaftlichen Kaffeeliebhabern Michael und Anas. Dieses innovative Projekt wurde aus ihrer gemeinsamen Begeisterung für exzellenten Kaffee und modernes Webdesign geboren. Der Kaffee-Webshop ist nicht nur eine Website; er ist das Ergebnis unzähliger Stunden kreativer Zusammenarbeit und engagierter Programmierung.
 
-In dieser virtuellen Oase können Kaffeegenießer auf eine erlesene Auswahl an köstlichen Kaffeesorten und Zubehör zugreifen, alles sorgfältig kuratiert von Michael und Anas selbst. Doch das Besondere an diesem Projekt ist nicht nur die hochwertige Produktpalette, sondern auch die Philosophie dahinter. Der Kaffee-Webshop ist ein Open-Source-Projekt, das heißt, die Türen zu seinem digitalen Herz stehen für jeden offen. Die beiden Gründer haben bewusst entschieden, den Code für jeden zugänglich zu machen. Das bedeutet, dass sowohl erfahrene Entwickler als auch aufstrebende Programmierer diesen Code studieren, modifizieren und sogar in eigenen Projekten verwenden können.
-
-Diese Offenheit spiegelt die Überzeugung von Michael und Anas wider, dass großartige Ideen und kreative Innovationen am besten gedeihen, wenn sie geteilt werden. Der Kaffee-Webshop ist somit nicht nur ein Ort des Einkaufs, sondern auch ein Ort des Lernens und der Inspiration. Es ist ein lebendiges Beispiel für die Zusammenführung von Leidenschaft und Technologie, von Gemeinschaft und Code.
-
-Also treten Sie ein in diese Welt des aromatischen Kaffees und der endlosen Möglichkeiten. Möge Ihre Tasse immer heiß und Ihr Code immer fehlerfrei sein. Willkommen im Kaffee-Webshop von Michael und Anas – wo Kaffee nicht nur ein Getränk ist, sondern eine Lebenseinstellung.
-
+Mit diesen Projekt haben wir als Team sämtliche Herausforderungen gemeistert, wie unteranderem die Front & Back-end Entwicklung mit einer MySQL Datenbank, womit man sich die Webseite anschauen kann, funktionen wie Registrieren, Log-in, User based access, authorization und security, das Agile arbeiten sowie Testing!
 
 ## GitHub:        
 ![Micha](https://github.com/anasm20/dotCoffee_v5_01/assets/112882511/6645b95b-ec81-48df-86b3-5cb9ccb20491) ![Anas](https://github.com/anasm20/dotCoffee_v5_01/assets/112882511/f2ddfa56-b97c-42e8-8cec-e35b06d9021c)
