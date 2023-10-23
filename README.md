@@ -12,11 +12,13 @@ Also treten Sie ein in diese Welt des aromatischen Kaffees und der endlosen Mög
 ![Micha](https://github.com/anasm20/dotCoffee_v5_01/assets/112882511/6645b95b-ec81-48df-86b3-5cb9ccb20491) ![Anas](https://github.com/anasm20/dotCoffee_v5_01/assets/112882511/f2ddfa56-b97c-42e8-8cec-e35b06d9021c)
 
 
-### Um das Projekt nutzen zu können, benötigen Sie eine Datenbank namens 'dotCoffee', auf welche Sie über das Programm 'XAMPP' zugreifen können.
+### XAMPP
+Um das Projekt nutzen zu können, benötigen Sie eine Datenbank namens 'dotCoffee', auf welche Sie über das Programm 'XAMPP' zugreifen können.
 ![1_Datenbank](https://github.com/anasm20/Software_Lifecycle_Semesterprojekt/assets/112882511/4940a221-aa1d-430a-9a7e-f6486e45faeb)
 
 
-### Danach müssen Sie die "Application.java", welche im Backend Ordner zufinden ist ausführen.
+### Starten des Severs
+Danach müssen Sie die "Application.java", welche im Backend Ordner zufinden ist ausführen.
 ![2_Run](https://github.com/anasm20/Software_Lifecycle_Semesterprojekt/assets/122538784/18b17f73-e759-4425-ac6c-ae4571d5743f)
 
 
@@ -25,13 +27,14 @@ Wo Sie einiges über unsere Backstory, Motivation und selbst verständlich - uns
 ![Index](https://github.com/anasm20/dotCoffee_v5/assets/112882511/a6d765b1-787f-4f60-9646-dc55a0ae32dd)
 
 
-### Hier können Sie sich registieren um auf mehr User Pages zugriff zu erlangen wie unteranderen einen persönlichen Warenkorb und Ihre User Page!
+### Registration
+Hier können Sie sich registieren um auf mehr User Pages zugriff zu erlangen wie unteranderen einen persönlichen Warenkorb und Ihre User Page!
 ![Registerung](https://github.com/anasm20/dotCoffee_v5/assets/112882511/93a92413-d52d-487f-842b-761e9c553cb3)
 ![ShoppingCart](https://github.com/anasm20/dotCoffee_v5/assets/112882511/264591c0-e498-4f36-aa3f-e5ad7266b3d1)
 ![shop](https://github.com/anasm20/dotCoffee_v5/assets/112882511/cf440925-074f-4550-b13a-b77c099907ac)
 
 
-### Admin-privilges:
+### Admin-privilges
 Als Admin User besitzten Sie nochmehr Rechte als ein gewöhnlicher User, und können unter anderem Produkte neu Anlegen, über arbeiten oder auch entfernen. Das gleiche gilt ebenso für User Accounts.
 ![Admin](https://github.com/anasm20/dotCoffee_v5/assets/112882511/5617a784-a968-4eae-a598-663ae5f408e6)
 
