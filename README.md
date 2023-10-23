@@ -1,7 +1,20 @@
 
 # 1) Das Webshop projekt "dotCoffee"
-Dieses Projekt stellt einen Kaffee-Webshop von Michael (https://github.com/GitMichaGit) und Anas (https://github.com/anasm20) dar. 
+Dieses Projekt stellt einen Kaffee-Webshop von Michael und Anas dar. 
 Es handelt sich um ein Open-Source-Projekt, sodass jeder den Code teilweise oder vollständig verwenden und weiterentwickeln kann.
+
+
+Here's our logo (hover to see the title text):
+
+Michael: 
+![Micha](https://github.com/anasm20/dotCoffee_v5_01/assets/112882511/6645b95b-ec81-48df-86b3-5cb9ccb20491)
+
+
+Anas: 
+![Anas](https://github.com/anasm20/dotCoffee_v5_01/assets/112882511/f2ddfa56-b97c-42e8-8cec-e35b06d9021c)
+
+
+
 
 ### - Um das Projekt nutzen zu können, benötigen Sie eine Datenbank namens 'dotCoffee', auf welche Sie über das Programm 'XAMPP' zugreifen können.
 ![1_Datenbank](https://github.com/anasm20/Software_Lifecycle_Semesterprojekt/assets/112882511/4940a221-aa1d-430a-9a7e-f6486e45faeb)
