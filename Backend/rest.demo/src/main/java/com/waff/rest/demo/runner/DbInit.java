@@ -54,7 +54,7 @@ public class DbInit implements CommandLineRunner {
                 user = new User()
                         .setUsername("user")
                         .setEmail("user@test.com")
-                        .setFirstname("Ahmad")
+                        .setFirstname("Lars")
                         .setLastname("Müller")
                         .setUserType(UserRole.USER)
                         .setPassword("user")

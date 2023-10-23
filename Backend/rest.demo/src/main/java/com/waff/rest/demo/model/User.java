@@ -125,8 +125,4 @@ public class User {
         this.enabled = enabled;
         return this;
     }
-
-    public static Object withUsername(String string) {
-        return null;
-    }
 }

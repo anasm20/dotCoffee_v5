@@ -90,13 +90,4 @@ public class LoginRegisterController {
             return ResponseEntity.badRequest().build();
         }
     }
-
-    public ResponseEntity<User> register(String string, String string2,
-            javax.servlet.http.HttpServletRequest httpRequest) {
-        return null;
-    }
-
-    public ResponseEntity<User> login(String string, String string2, javax.servlet.http.HttpServletRequest httpRequest) {
-        return null;
-    }
 }

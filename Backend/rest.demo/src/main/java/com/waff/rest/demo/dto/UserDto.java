@@ -132,7 +132,4 @@ public class UserDto {
                 ", enabled=" + enabled +
                 '}';
     }
-
-    public void setfirstname(String string) {
-    }
 }
