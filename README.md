@@ -12,15 +12,16 @@ Um das Projekt nutzen zu können, benötigen Sie eine Datenbank namens 'dotCoffe
 ![1_Datenbank](https://github.com/anasm20/Software_Lifecycle_Semesterprojekt/assets/112882511/4940a221-aa1d-430a-9a7e-f6486e45faeb)
 
 
-Um die Datenbank richtig benutzen zu können braucht man auch die richtigen Rechte!
+### Datenbank Rechte!
+Um die Datenbank richtig benutzen zu können braucht man auch die richtigen Rechte
 ![DatenBankRechte](https://github.com/anasm20/dotCoffee_v5_01/assets/112882511/769011d4-99c8-47d9-91f0-32ee4c334b9f)
 
+### Root Konfiguration
 In unseren Projekt haben wir alle 3 Roots abgeändert auf unsere Standart konfiguration
 ![DatenBankRechte2](https://github.com/anasm20/dotCoffee_v5_01/assets/112882511/7bfcc4e4-81ba-4276-b3ff-3dfa9eaff347)
 
 ### Standart Konfiguration
 ![DatenBankRechte3](https://github.com/anasm20/dotCoffee_v5_01/assets/112882511/5b1cfc05-9493-4ce6-917a-2e1c71f17655)
-
 
 
 ### Starten des Severs
