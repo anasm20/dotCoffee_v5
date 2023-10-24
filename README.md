@@ -62,11 +62,6 @@ Jede Userstory, wird mit einen eigenen Feature Entwickelt und dem entsprechen au
 Fürs Testing haben wir sowohl Unit als auch Integration Tests erstellt und damit auch getestet, insgesamt besitzt dieses Projekt derzeitig 43 Tests!
 
 
-### Integration Test
-Als Beispiel sieht man hier einen Basic Integration Test für die Categories!
-![grafik](https://github.com/anasm20/dotCoffee_v5_01/assets/122538784/d1b1dc15-fdd3-4870-9519-834fddd39083)
-
-
 ### Unit Test
 Als Beispiel sieht man hier einen Basic Unit Test fürs UserService!
 ![UserServiceTest](https://github.com/anasm20/dotCoffee_v5_01/assets/122538784/ad214128-9e86-40cc-b27e-bb3cc70458fd)
