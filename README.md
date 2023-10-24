@@ -46,7 +46,6 @@ Nach der Registierung hat man die möglichkeit sich mit gleichen Login-Daten sic
 
 ### Shop
 Jeder User, inklusive Visitors haben den Zugriff auf unseren Shop. Dieser beinhaltet 3 Produkt Kategorien sowie eine Reiche Auswahl an Premium dotCoffee Kaffee Bohnen sowie Becher.
-![dotCoffee15](https://github.com/anasm20/dotCoffee_v5_01/assets/112882511/9ae6a7c9-901e-41a6-9eb7-fdbc06520809)
 ![shop](https://github.com/anasm20/dotCoffee_v5/assets/112882511/cf440925-074f-4550-b13a-b77c099907ac)
 
 
