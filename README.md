@@ -31,10 +31,10 @@ Danach müssen Sie die "Application.java", welche im Backend Ordner zufinden ist
 
 ### Homepage
 Wo Sie einiges über unsere Backstory, Motivation und selbst verständlich - uns, lernen können. Sie können ebenfalls von der Homepage ganz entspannt auf alle verfügbaren Seiten als Visitor zugreifen, wie den Shop sowie die Hilfe, Kontakt und Impressums Seite:
-
-![dotCoffee16](https://github.com/anasm20/dotCoffee_v5_01/assets/112882511/3b257db5-cde1-4147-a4e1-55f6e153ef91)
-
 ![Index](https://github.com/anasm20/dotCoffee_v5/assets/112882511/a6d765b1-787f-4f60-9646-dc55a0ae32dd)
+
+### Warenkorb
+Jeder registriert Benutzer, hat einen eigenen persönlichen Warenkorb, in dem er Produkte einfügen und entfernen kann.
 ![ShoppingCart](https://github.com/anasm20/dotCoffee_v5/assets/112882511/264591c0-e498-4f36-aa3f-e5ad7266b3d1)
 ![shop](https://github.com/anasm20/dotCoffee_v5/assets/112882511/cf440925-074f-4550-b13a-b77c099907ac)
 
@@ -42,6 +42,8 @@ Wo Sie einiges über unsere Backstory, Motivation und selbst verständlich - uns
 Hier können Sie sich registieren um auf mehr User Pages zugriff zu erlangen wie unteranderen einen persönlichen Warenkorb und Ihre User Page!
 ![Registerung](https://github.com/anasm20/dotCoffee_v5/assets/112882511/93a92413-d52d-487f-842b-761e9c553cb3)
 
+### Shop
+Jeder User, inklusive Visitors haben den Zugriff auf unseren Shop. Dieser beinhaltet 3 Produkt Kategorien sowie eine Reiche Auswahl an Premium dotCoffee Kaffee Bohnen sowie Becher.
 ![dotCoffee15](https://github.com/anasm20/dotCoffee_v5_01/assets/112882511/9ae6a7c9-901e-41a6-9eb7-fdbc06520809)
 
 
