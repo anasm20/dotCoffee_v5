@@ -10,6 +10,12 @@ Mit diesen Projekt haben wir als Team sämtliche Herausforderungen gemeistert, w
 ### XAMPP
 Um das Projekt nutzen zu können, benötigen Sie eine Datenbank namens 'dotCoffee', auf welche Sie über das Programm 'XAMPP' zugreifen können.
 ![1_Datenbank](https://github.com/anasm20/Software_Lifecycle_Semesterprojekt/assets/112882511/4940a221-aa1d-430a-9a7e-f6486e45faeb)
+![DatenBankRechte](https://github.com/anasm20/dotCoffee_v5_01/assets/112882511/769011d4-99c8-47d9-91f0-32ee4c334b9f)
+
+![DatenBankRechte2](https://github.com/anasm20/dotCoffee_v5_01/assets/112882511/7bfcc4e4-81ba-4276-b3ff-3dfa9eaff347)
+
+![DatenBankRechte3](https://github.com/anasm20/dotCoffee_v5_01/assets/112882511/5b1cfc05-9493-4ce6-917a-2e1c71f17655)
+
 
 
 ### Starten des Severs
@@ -19,6 +25,9 @@ Danach müssen Sie die "Application.java", welche im Backend Ordner zufinden ist
 
 ### Homepage
 Wo Sie einiges über unsere Backstory, Motivation und selbst verständlich - uns, lernen können. Sie können ebenfalls von der Homepage ganz entspannt auf alle verfügbaren Seiten als Visitor zugreifen, wie den Shop sowie die Hilfe, Kontakt und Impressums Seite:
+
+![dotCoffee16](https://github.com/anasm20/dotCoffee_v5_01/assets/112882511/3b257db5-cde1-4147-a4e1-55f6e153ef91)
+
 ![Index](https://github.com/anasm20/dotCoffee_v5/assets/112882511/a6d765b1-787f-4f60-9646-dc55a0ae32dd)
 ![ShoppingCart](https://github.com/anasm20/dotCoffee_v5/assets/112882511/264591c0-e498-4f36-aa3f-e5ad7266b3d1)
 ![shop](https://github.com/anasm20/dotCoffee_v5/assets/112882511/cf440925-074f-4550-b13a-b77c099907ac)
@@ -27,6 +36,7 @@ Wo Sie einiges über unsere Backstory, Motivation und selbst verständlich - uns
 Hier können Sie sich registieren um auf mehr User Pages zugriff zu erlangen wie unteranderen einen persönlichen Warenkorb und Ihre User Page!
 ![Registerung](https://github.com/anasm20/dotCoffee_v5/assets/112882511/93a92413-d52d-487f-842b-761e9c553cb3)
 
+![dotCoffee15](https://github.com/anasm20/dotCoffee_v5_01/assets/112882511/9ae6a7c9-901e-41a6-9eb7-fdbc06520809)
 
 
 ### Admin-privilges
@@ -62,4 +72,5 @@ Als Beispiel sieht man hier einen Basic Unit Test fürs UserService!
 ![UserServiceTest](https://github.com/anasm20/dotCoffee_v5_01/assets/122538784/ad214128-9e86-40cc-b27e-bb3cc70458fd)
 
 
+![Test](https://github.com/anasm20/dotCoffee_v5_01/assets/112882511/8cd73b9d-360d-49c9-b410-c5aa20ac830d)
 
