@@ -10,6 +10,7 @@ Mit diesen Projekt haben wir als Team sämtliche Herausforderungen gemeistert, w
 ### XAMPP
 Um das Projekt nutzen zu können, benötigen Sie eine Datenbank namens 'dotCoffee', auf welche Sie über das Programm 'XAMPP' zugreifen können.
 ![1_Datenbank](https://github.com/anasm20/Software_Lifecycle_Semesterprojekt/assets/112882511/4940a221-aa1d-430a-9a7e-f6486e45faeb)
+##### test
 ![DatenBankRechte](https://github.com/anasm20/dotCoffee_v5_01/assets/112882511/769011d4-99c8-47d9-91f0-32ee4c334b9f)
 
 ![DatenBankRechte2](https://github.com/anasm20/dotCoffee_v5_01/assets/112882511/7bfcc4e4-81ba-4276-b3ff-3dfa9eaff347)
