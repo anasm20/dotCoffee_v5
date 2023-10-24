@@ -60,7 +60,7 @@ Für dieses Projekt haben wir verschiedene Software - Lifecycle Methoden angewen
 
 ### Project Board
 Wir benutzen ein Project Board (Kanban) um die Userstories, Statuse, Progress . . . visuel darzustellen und updaten dieses täglich.
-![02_User_Stories](https://github.com/anasm20/Software_Lifecycle_Semesterprojekt/assets/122538784/69cb6ae3-6a2d-4a98-8357-d43c0eae73b5)
+ ![Kanban](https://github.com/anasm20/dotCoffee_v5_01/assets/112882511/a3269844-b5f9-4076-9d99-7b814b9f9805)
 
 
 ### Userstories - Feature Branches
