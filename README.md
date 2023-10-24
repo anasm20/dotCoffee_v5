@@ -1,4 +1,4 @@
-### Der "dotCoffee" Webshop, by Anas & Michael!
+## Der "dotCoffee" Webshop, by Anas & Michael!
 Willkommen im faszinierenden Universum des Kaffee-Webshops, entwickelt von den leidenschaftlichen Kaffeeliebhabern Michael und Anas. Dieses innovative Projekt wurde aus ihrer gemeinsamen Begeisterung für exzellenten Kaffee und modernes Webdesign geboren. Der Kaffee-Webshop ist nicht nur eine Website; er ist das Ergebnis unzähliger Stunden kreativer Zusammenarbeit und engagierter Programmierung.
 
 Mit diesen Projekt haben wir als Team sämtliche Herausforderungen gemeistert, wie unteranderem die Front & Back-end Entwicklung mit einer MySQL Datenbank, womit man sich die Webseite anschauen kann, funktionen wie Registrieren, Log-in, User based access, authorization und security, das Agile arbeiten sowie Testing!
